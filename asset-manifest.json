@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/portfolio-website/static/css/main.17351d86.chunk.css",
+    "main.js": "/portfolio-website/static/js/main.c2e9c4ef.chunk.js",
+    "main.js.map": "/portfolio-website/static/js/main.c2e9c4ef.chunk.js.map",
+    "runtime-main.js": "/portfolio-website/static/js/runtime-main.4eae545a.js",
+    "runtime-main.js.map": "/portfolio-website/static/js/runtime-main.4eae545a.js.map",
+    "static/css/2.eb4fa7a7.chunk.css": "/portfolio-website/static/css/2.eb4fa7a7.chunk.css",
+    "static/js/2.af719a98.chunk.js": "/portfolio-website/static/js/2.af719a98.chunk.js",
+    "static/js/2.af719a98.chunk.js.map": "/portfolio-website/static/js/2.af719a98.chunk.js.map",
+    "static/js/3.b89f36d2.chunk.js": "/portfolio-website/static/js/3.b89f36d2.chunk.js",
+    "static/js/3.b89f36d2.chunk.js.map": "/portfolio-website/static/js/3.b89f36d2.chunk.js.map",
+    "index.html": "/portfolio-website/index.html",
+    "static/css/2.eb4fa7a7.chunk.css.map": "/portfolio-website/static/css/2.eb4fa7a7.chunk.css.map",
+    "static/css/main.17351d86.chunk.css.map": "/portfolio-website/static/css/main.17351d86.chunk.css.map",
+    "static/js/2.af719a98.chunk.js.LICENSE.txt": "/portfolio-website/static/js/2.af719a98.chunk.js.LICENSE.txt",
+    "static/media/font-awesome.css": "/portfolio-website/static/media/fontawesome-webfont.f691f37e.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4eae545a.js",
+    "static/css/2.eb4fa7a7.chunk.css",
+    "static/js/2.af719a98.chunk.js",
+    "static/css/main.17351d86.chunk.css",
+    "static/js/main.c2e9c4ef.chunk.js"
+  ]
+}
