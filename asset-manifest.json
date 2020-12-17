@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/vidly/static/css/main.17351d86.chunk.css",
-    "main.js": "/vidly/static/js/main.3a1864b3.chunk.js",
-    "main.js.map": "/vidly/static/js/main.3a1864b3.chunk.js.map",
+    "main.js": "/vidly/static/js/main.bf12b18e.chunk.js",
+    "main.js.map": "/vidly/static/js/main.bf12b18e.chunk.js.map",
     "runtime-main.js": "/vidly/static/js/runtime-main.8bca163d.js",
     "runtime-main.js.map": "/vidly/static/js/runtime-main.8bca163d.js.map",
     "static/css/2.842ae710.chunk.css": "/vidly/static/css/2.842ae710.chunk.css",
@@ -21,6 +21,6 @@
     "static/css/2.842ae710.chunk.css",
     "static/js/2.9fed68cd.chunk.js",
     "static/css/main.17351d86.chunk.css",
-    "static/js/main.3a1864b3.chunk.js"
+    "static/js/main.bf12b18e.chunk.js"
   ]
 }
